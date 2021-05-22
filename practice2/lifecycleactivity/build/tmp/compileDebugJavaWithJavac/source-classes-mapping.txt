@@ -1,0 +1,4 @@
+ru/mirea/bulatkin/lifecycleactivity/BuildConfig.java
+ ru.mirea.bulatkin.lifecycleactivity.BuildConfig
+ru/mirea/bulatkin/lifecycleactivity/MainActivity.java
+ ru.mirea.bulatkin.lifecycleactivity.MainActivity

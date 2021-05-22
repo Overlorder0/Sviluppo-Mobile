@@ -1,0 +1,4 @@
+#Sat May 22 14:06:54 MSK 2021
+base.0=C\:\\Users\\Over0\\AndroidStudioProjects\\practice2\\intentfilter\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
