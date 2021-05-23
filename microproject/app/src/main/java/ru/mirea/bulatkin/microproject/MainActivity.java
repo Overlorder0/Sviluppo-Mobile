@@ -43,4 +43,25 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    @Override
+    public void onResume(){
+        super.onResume();
+        if (delta<10) {
+            textView5.setTextColor(Color.GREEN);
+            textView5.setTextSize(14);
+        } else if (delta>9 && delta<50){
+            textView5.setTextColor(Color.BLUE);
+            textView5.setTextSize(18);
+        } else if (delta>49 && delta<70){
+            textView5.setTextColor(Color.WHITE);
+            textView5.setTextSize(20);
+        } else if (delta>69 && delta<100){
+            textView5.setTextColor(Color.RED);
+            textView5.setTextSize(24);
+        }
+        else {
+            textView5.setTextColor(Color.BLACK);
+            textView5.setTextSize(36);
+        }
+    }
 }
