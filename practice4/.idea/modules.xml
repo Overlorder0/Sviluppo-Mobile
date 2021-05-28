@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practice4.iml" filepath="$PROJECT_DIR$/.idea/modules/practice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/practice4.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/practice4.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datathread/practice4.datathread.iml" filepath="$PROJECT_DIR$/.idea/modules/datathread/practice4.datathread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loadermanager/practice4.loadermanager.iml" filepath="$PROJECT_DIR$/.idea/modules/loadermanager/practice4.loadermanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/looper/practice4.looper.iml" filepath="$PROJECT_DIR$/.idea/modules/looper/practice4.looper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread/practice4.thread.iml" filepath="$PROJECT_DIR$/.idea/modules/thread/practice4.thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workmanager/practice4.workmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/workmanager/practice4.workmanager.iml" />
+    </modules>
+  </component>
+</project>

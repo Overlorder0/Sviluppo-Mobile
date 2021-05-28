@@ -1,0 +1,6 @@
+ru/mirea/bulatkin/thread/BuildConfig.java
+ ru.mirea.bulatkin.thread.BuildConfig
+ru/mirea/bulatkin/thread/MainActivity.java
+ ru.mirea.bulatkin.thread.MainActivity
+ ru.mirea.bulatkin.thread.MainActivity$1
+ ru.mirea.bulatkin.thread.MainActivity$2

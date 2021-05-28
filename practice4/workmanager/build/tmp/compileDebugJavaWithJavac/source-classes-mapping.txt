@@ -1,0 +1,6 @@
+ru/mirea/bulatkin/workmanager/UploadWorker.java
+ ru.mirea.bulatkin.workmanager.UploadWorker
+ru/mirea/bulatkin/workmanager/BuildConfig.java
+ ru.mirea.bulatkin.workmanager.BuildConfig
+ru/mirea/bulatkin/workmanager/MainActivity.java
+ ru.mirea.bulatkin.workmanager.MainActivity

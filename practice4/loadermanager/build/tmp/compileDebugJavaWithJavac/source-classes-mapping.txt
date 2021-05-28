@@ -1,0 +1,6 @@
+ru/mirea/bulatkin/loadermanager/MyLoader.java
+ ru.mirea.bulatkin.loadermanager.MyLoader
+ru/mirea/bulatkin/loadermanager/MainActivity.java
+ ru.mirea.bulatkin.loadermanager.MainActivity
+ru/mirea/bulatkin/loadermanager/BuildConfig.java
+ ru.mirea.bulatkin.loadermanager.BuildConfig

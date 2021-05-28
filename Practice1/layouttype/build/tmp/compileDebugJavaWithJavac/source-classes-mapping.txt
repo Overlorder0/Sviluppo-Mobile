@@ -1,0 +1,4 @@
+ru/mirea/bulatkin/layouttype/MainActivity.java
+ ru.mirea.bulatkin.layouttype.MainActivity
+ru/mirea/bulatkin/layouttype/BuildConfig.java
+ ru.mirea.bulatkin.layouttype.BuildConfig

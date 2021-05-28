@@ -1,0 +1,4 @@
+ru/mirea/bulatkin/toastapp/BuildConfig.java
+ ru.mirea.bulatkin.toastapp.BuildConfig
+ru/mirea/bulatkin/toastapp/MainActivity.java
+ ru.mirea.bulatkin.toastapp.MainActivity

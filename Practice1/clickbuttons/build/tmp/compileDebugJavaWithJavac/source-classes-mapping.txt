@@ -1,0 +1,6 @@
+ru/mirea/bulatkin/clickbuttons/BuildConfig.java
+ ru.mirea.bulatkin.clickbuttons.BuildConfig
+ru/mirea/bulatkin/clickbuttons/MainActivity.java
+ ru.mirea.bulatkin.clickbuttons.MainActivity
+ ru.mirea.bulatkin.clickbuttons.MainActivity$1
+ ru.mirea.bulatkin.clickbuttons.MainActivity$2

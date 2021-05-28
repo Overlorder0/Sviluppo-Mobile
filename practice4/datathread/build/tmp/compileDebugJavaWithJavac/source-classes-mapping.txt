@@ -1,0 +1,8 @@
+ru/mirea/bulatkin/datathread/BuildConfig.java
+ ru.mirea.bulatkin.datathread.BuildConfig
+ru/mirea/bulatkin/datathread/MainActivity.java
+ ru.mirea.bulatkin.datathread.MainActivity
+ ru.mirea.bulatkin.datathread.MainActivity$1
+ ru.mirea.bulatkin.datathread.MainActivity$2
+ ru.mirea.bulatkin.datathread.MainActivity$3
+ ru.mirea.bulatkin.datathread.MainActivity$4
