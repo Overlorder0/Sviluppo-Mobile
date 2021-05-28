@@ -1,4 +1,0 @@
-ru/mirea/bulatkin/notificationapp/MainActivity.java
- ru.mirea.bulatkin.notificationapp.MainActivity
-ru/mirea/bulatkin/notificationapp/BuildConfig.java
- ru.mirea.bulatkin.notificationapp.BuildConfig

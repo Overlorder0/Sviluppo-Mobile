@@ -1,4 +1,0 @@
-include ':clickbuttons'
-include ':layouttype'
-include ':app'
-rootProject.name = "Practice1"
