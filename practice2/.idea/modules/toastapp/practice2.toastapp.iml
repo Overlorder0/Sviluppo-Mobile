@@ -34,6 +34,9 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../toastapp/src/androidTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../toastapp/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../toastapp/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../toastapp/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../toastapp/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../toastapp/build/generated/res/resValues/debug" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../toastapp/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../toastapp/build" />
     </content>

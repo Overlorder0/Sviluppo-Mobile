@@ -73,7 +73,9 @@
         <enum name="rectangles" value="5"/>
     </attr>
     <attr format="reference" name="drawerArrowStyle"/>
+    <attr format="reference" name="drawerLayoutStyle"/>
     <attr format="integer" name="duration"/>
+    <attr format="dimension" name="elevation"/>
     <attr format="color" name="elevationOverlayColor"/>
     <attr format="boolean" name="elevationOverlayEnabled"/>
     <attr format="boolean" name="ensureMinTouchTargetSize"/>
@@ -600,6 +602,7 @@
     <dimen name="compat_control_corner_material">2dp</dimen>
     <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
     <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="def_drawer_elevation">10dp</dimen>
     <dimen name="default_dimension">100dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
@@ -1056,7 +1059,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">LifeCycleActivity</string>
+    <string name="app_name">lifecycleactivity</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string description="A description of an action that a user of an accessibility service can perform to expand a bottomsheet halfway to its full height. [CHAR LIMIT=25]" name="bottomsheet_action_expand_halfway">Expand halfway</string>
@@ -6394,6 +6397,10 @@
         <!-- The thickness (stroke size) for the bar paint -->
         <attr format="dimension" name="thickness"/>
     </declare-styleable>
+    <declare-styleable name="DrawerLayout">
+        <!-- The height difference between the drawer and the base surface. Only takes effect on API 21 and above -->
+        <attr name="elevation"/>
+    </declare-styleable>
     <declare-styleable name="ExtendedFloatingActionButton">
     <!-- Elevation for the ExtendedFloatingActionButton. -->
     <attr name="elevation"/>
@@ -7128,6 +7135,8 @@
     </declare-styleable>
     <declare-styleable name="NavDeepLink">
         <attr format="string" name="uri"/>
+        <attr format="string" name="action"/>
+        <attr format="string" name="mimeType"/>
         <attr name="android:autoVerify"/>
     </declare-styleable>
     <declare-styleable name="NavGraphNavigator">

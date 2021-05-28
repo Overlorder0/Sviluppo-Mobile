@@ -1,17 +1,17 @@
+ru/mirea/bulatkin/dialog/MyProgressDialogFragment.java
+ ru.mirea.bulatkin.dialog.MyProgressDialogFragment
+ru/mirea/bulatkin/dialog/MyTimeDialogFragment.java
+ ru.mirea.bulatkin.dialog.MyTimeDialogFragment
+ru/mirea/bulatkin/dialog/BuildConfig.java
+ ru.mirea.bulatkin.dialog.BuildConfig
+ru/mirea/bulatkin/dialog/MyDateDialogFragment.java
+ ru.mirea.bulatkin.dialog.MyDateDialogFragment
 ru/mirea/bulatkin/dialog/AlertDialogFragment.java
  ru.mirea.bulatkin.dialog.AlertDialogFragment
  ru.mirea.bulatkin.dialog.AlertDialogFragment$1
  ru.mirea.bulatkin.dialog.AlertDialogFragment$2
  ru.mirea.bulatkin.dialog.AlertDialogFragment$3
-ru/mirea/bulatkin/dialog/MyTimeDialogFragment.java
- ru.mirea.bulatkin.dialog.MyTimeDialogFragment
-ru/mirea/bulatkin/dialog/BuildConfig.java
- ru.mirea.bulatkin.dialog.BuildConfig
 ru/mirea/bulatkin/dialog/MainActivity.java
  ru.mirea.bulatkin.dialog.MainActivity
  ru.mirea.bulatkin.dialog.MainActivity$1
  ru.mirea.bulatkin.dialog.MainActivity$2
-ru/mirea/bulatkin/dialog/MyDateDialogFragment.java
- ru.mirea.bulatkin.dialog.MyDateDialogFragment
-ru/mirea/bulatkin/dialog/MyProgressDialogFragment.java
- ru.mirea.bulatkin.dialog.MyProgressDialogFragment

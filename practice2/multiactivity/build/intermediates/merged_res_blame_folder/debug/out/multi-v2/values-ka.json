@@ -4,6 +4,23 @@
             "outputFile": "C:\\Users\\Over0\\AndroidStudioProjects\\practice2\\multiactivity\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Over0\\.gradle\\caches\\transforms-2\\files-2.1\\5398c332bcdea5d804d3f8bbc2a4005c\\navigation-ui-2.3.5\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,164",
+                        "endColumns": "108,117",
+                        "endOffsets": "159,277"
+                    },
+                    "to": {
+                        "startLines": "86,87",
+                        "startColumns": "4,4",
+                        "startOffsets": "7263,7372",
+                        "endColumns": "108,117",
+                        "endOffsets": "7367,7485"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Over0\\.gradle\\caches\\transforms-2\\files-2.1\\5c4786bccfbaefa0f187e0e56044e26d\\core-1.5.0\\res\\values-ka\\values-ka.xml",
                     "from": {
                         "startLines": "2",
@@ -54,23 +71,6 @@
                         "endLines": "5,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,88",
                         "endColumns": "12,83,98,124,87,66,96,68,62,86,65,59,68,60,53,114,58,59,53,71,129,87,83,107,77,75,93,66,65,72,77,85,72,77,77,74,89,74,93,97,73,76,99,52,67,88,88,61,64,62,106,97,99,98,79",
                         "endOffsets": "273,3060,3159,3284,3372,3439,3536,3605,3668,3755,3821,3881,3950,4011,4065,4180,4239,4299,4353,4425,4555,4643,4727,4835,4913,4989,5083,5150,5216,5289,5367,5453,5526,5604,5682,5757,5847,5922,6016,6114,6188,6265,6365,6418,6486,6575,6664,6726,6791,6854,6961,7059,7159,7258,7565"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Over0\\.gradle\\caches\\transforms-2\\files-2.1\\ee833a536128e3b427c4b16b1ddd3d53\\navigation-ui-2.2.2\\res\\values-ka\\values-ka.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,164",
-                        "endColumns": "108,117",
-                        "endOffsets": "159,277"
-                    },
-                    "to": {
-                        "startLines": "86,87",
-                        "startColumns": "4,4",
-                        "startOffsets": "7263,7372",
-                        "endColumns": "108,117",
-                        "endOffsets": "7367,7485"
                     }
                 }
             ]

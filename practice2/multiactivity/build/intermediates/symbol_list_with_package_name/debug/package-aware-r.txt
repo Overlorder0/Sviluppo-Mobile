@@ -61,6 +61,10 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+animator nav_default_enter_anim
+animator nav_default_exit_anim
+animator nav_default_pop_enter_anim
+animator nav_default_pop_exit_anim
 attr action
 attr actionBarDivider
 attr actionBarItemBackground
@@ -356,6 +360,7 @@ attr drawableTint
 attr drawableTintMode
 attr drawableTopCompat
 attr drawerArrowStyle
+attr drawerLayoutStyle
 attr dropDownListViewStyle
 attr dropdownListPreferredItemHeight
 attr duration
@@ -646,6 +651,7 @@ attr maxVelocity
 attr maxWidth
 attr measureWithLargestChild
 attr menu
+attr mimeType
 attr minHeight
 attr minHideDelay
 attr minSeparation
@@ -1275,6 +1281,7 @@ dimen compat_button_padding_vertical_material
 dimen compat_control_corner_material
 dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
+dimen def_drawer_elevation
 dimen default_dimension
 dimen design_appbar_elevation
 dimen design_bottom_navigation_active_item_max_width
@@ -1718,7 +1725,7 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
-id FirstFragment
+id First2Fragment
 id META
 id NO_DEBUG
 id SHIFT
@@ -1726,7 +1733,7 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
-id SecondFragment
+id Second2Fragment
 id TOP_END
 id TOP_START
 id accelerate
@@ -1763,8 +1770,8 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
-id action_FirstFragment_to_SecondFragment
-id action_SecondFragment_to_FirstFragment
+id action_First2Fragment_to_Second2Fragment
+id action_Second2Fragment_to_First2Fragment
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -2105,7 +2112,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView2
+id textView
+id textView9
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2139,6 +2147,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id view4
 id view_offset_helper
 id view_tree_lifecycle_owner
 id view_tree_saved_state_registry_owner
@@ -3174,6 +3183,7 @@ styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_a
 styleable CustomAttribute attributeName customBoolean customColorDrawableValue customColorValue customDimension customFloatValue customIntegerValue customPixelDimension customStringValue
 styleable DialogFragmentNavigator android_name
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
+styleable DrawerLayout elevation
 styleable ExtendedFloatingActionButton collapsedSize elevation extendMotionSpec hideMotionSpec showMotionSpec shrinkMotionSpec
 styleable ExtendedFloatingActionButton_Behavior_Layout behavior_autoHide behavior_autoShrink
 styleable FloatingActionButton android_enabled backgroundTint backgroundTintMode borderWidth elevation ensureMinTouchTargetSize fabCustomSize fabSize hideMotionSpec hoveredFocusedTranslationZ maxImageSize pressedTranslationZ rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec useCompatPadding
@@ -3228,7 +3238,7 @@ styleable MotionScene defaultDuration layoutDuringTransition
 styleable MotionTelltales telltales_tailColor telltales_tailScale telltales_velocityMode
 styleable NavAction android_id destination enterAnim exitAnim launchSingleTop popEnterAnim popExitAnim popUpTo popUpToInclusive
 styleable NavArgument android_name android_defaultValue argType nullable
-styleable NavDeepLink android_autoVerify uri
+styleable NavDeepLink android_autoVerify action mimeType uri
 styleable NavGraphNavigator startDestination
 styleable NavHost navGraph
 styleable NavHostFragment defaultNavHost

@@ -1,4 +1,4 @@
-ru/mirea/bulatkin/intentfilter/BuildConfig.java
- ru.mirea.bulatkin.intentfilter.BuildConfig
 ru/mirea/bulatkin/intentfilter/MainActivity.java
  ru.mirea.bulatkin.intentfilter.MainActivity
+ru/mirea/bulatkin/intentfilter/BuildConfig.java
+ ru.mirea.bulatkin.intentfilter.BuildConfig
