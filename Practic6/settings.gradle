@@ -1,0 +1,6 @@
+include ':internalfilestorage'
+include ':notebook'
+include ':preferences'
+include ':room'
+include ':app'
+rootProject.name = "Practic6"
